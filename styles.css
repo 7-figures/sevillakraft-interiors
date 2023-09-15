@@ -110,6 +110,20 @@ padding-left: 22px;
   min-width:auto;
   
 }
+.con1 img{
+    width: 450px;
+    height: 350px;
+    padding: 20px;
+}
+.con2{
+    width: 550px;
+    
+      }
+      .contact{
+        width: 100%;
+        align-items: center;
+        justify-content: space-between;
+      }
 
   footer{
     font-weight: 300;
@@ -122,38 +136,4 @@ padding-left: 22px;
     color: #fff;
     border-top: 4px solid darkred;
     }
-    .contact-section {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      
-   
-  }
-  .contacts{
-      height: 70vh;
-      background: #fff; 
-      margin-bottom: 60px;
-       
-  }
   
-  .details{
-      width: 500px;
-       margin-left:-650px;
-  }
-  .main{
-      display: flex;
-      justify-content:center;
-      width: 100%;
-      margin-left:490px;
-      margin-top: 4px;
-      padding-bottom: 15px;
-      gap: 20px;
-  }
-  form{
-  
-      width: 500px;
-      margin-bottom: 4px;
-      padding-left:20px;
-  }
